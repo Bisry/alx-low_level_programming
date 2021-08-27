@@ -1,18 +1,21 @@
-nclude  < stdio.h >
+#include <stdio.h>
 
 /**
- * main - Print all possible combinations of single digit numbers
+ * main - This program prints the numbers 0 to 9 separated
+ * by a comma and a space, minus the number 9.
  *
- * Return: Always 0 (Success)
+ * Return: 0.
  */
+
 int main(void)
 {
-int number;
+int d;
 
-for (number = 0; number <= 9; number++)
+for (d = '0'; d <= '9'; d++)
 {
-putchar(number + '0');
-if (number < 9)
+putchar(d);
+
+if (d != '9')
 {
 putchar(',');
 putchar(' ');
