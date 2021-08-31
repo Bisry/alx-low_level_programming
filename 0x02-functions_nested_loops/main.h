@@ -1,4 +1,4 @@
-void print_times_table(void);
+int print_times_table(int);
 void print_to_98(int n);
 int _putchar(char c);
 void print_alphabet(void);
