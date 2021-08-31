@@ -11,7 +11,7 @@
 int main(void)
 {
 int i = 0;
-char bisry[] = "Holberton\n";
+char bisry[] = "Holberton";
 
 while (i <= 9)
 {
