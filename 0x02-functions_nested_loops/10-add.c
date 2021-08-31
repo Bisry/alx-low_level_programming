@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * add - this is a function that add two integer numbers
  *

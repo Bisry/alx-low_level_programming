@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * jack_bauer - function that print Jack Bauer every minute
