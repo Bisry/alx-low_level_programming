@@ -7,16 +7,15 @@
  *
  * Return: 0 for success
  */
-
 int main(void)
 {
-int i = 0;
-char bisry[] = "Holberton";
+int i;
+char p[] = "Holberton";
 
-while (i <= 9)
+for (i = 0; i < 9; i++)
 {
-_putchar(bisry[i]);
-i++;
+_putchar(p[i]);
 }
+_putchar('\n');
 return (0);
 }
