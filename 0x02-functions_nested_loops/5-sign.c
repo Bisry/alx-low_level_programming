@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_sign - funcion that prints of a number
  * @n:caracter to check
