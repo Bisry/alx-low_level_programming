@@ -10,9 +10,9 @@
 int main(void)
 {
 int i;
-char p[] = "Holberton\n";
+char p[10] = "Holberton";
 
-for (i = 0; i < 9; i++)
+for (i = 0; i < 10; i++)
 {
 _putchar(p[i]);
 }
