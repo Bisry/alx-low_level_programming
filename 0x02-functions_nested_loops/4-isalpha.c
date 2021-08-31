@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _isalpha - check for lowercase and uppercase letters
  * @c:caracter to check
