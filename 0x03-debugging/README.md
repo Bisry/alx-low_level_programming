@@ -1,0 +1,1 @@
+Debugging is a methodical process of finding and reducing the number of bugs (or defects) in a computer program, thus making it behave as originally expected. ... program to generate incorrect output (or “crash”) during execution. This lecture will examine how to methodically debug a run-time error in your C code.
